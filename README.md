@@ -49,11 +49,34 @@ const yefta = {
 
 ## Experience
 
-| Timeline | Role | Company |
-| --- | --- | --- |
-| Jan 2026 - Jun 2026 | Product & UI/UX Designer Intern | PT. Teknologi Sunan Drajad |
-| Aug 2025 - Des 2025 | Mobile Developer (Freelance) | Pajajaran Laundry |
-| Jul 2022 - Jan 2023 | Software Developer Intern | CV. Pixel Space Creative |
+<div align="center">
+<table width="100%" style="max-width:900px;border-collapse:collapse;">
+	<thead>
+		<tr>
+			<th align="left">Timeline</th>
+			<th align="left">Role</th>
+			<th align="left">Company</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Jan 2026 - Jun 2026</td>
+			<td>Product &amp; UI/UX Designer Intern</td>
+			<td>PT. Teknologi Sunan Drajad</td>
+		</tr>
+		<tr>
+			<td>Aug 2025 - Des 2025</td>
+			<td>Mobile Developer (Freelance)</td>
+			<td>Pajajaran Laundry</td>
+		</tr>
+		<tr>
+			<td>Jul 2022 - Jan 2023</td>
+			<td>Software Developer Intern</td>
+			<td>CV. Pixel Space Creative</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ---
 
