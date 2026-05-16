@@ -1,10 +1,14 @@
 <h1 align="center">Yefta Octavianus Santo</h1>
-<h3 align="center">Full-stack Developer · Mobile Developer · UI/UX Designer</h3>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Always+excited+to+collaborate+and+build+something+impactful+together." alt="Typing SVG" />
+	<img src="https://img.shields.io/badge/Full-stack%20Dev-0EA5E9?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Full-stack Dev" />
+	<img src="https://img.shields.io/badge/Mobile%20Developer-06B6D4?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Developer" />
+	<img src="https://img.shields.io/badge/UI%2FUX%20Designer-F472B6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer" />
 </p>
 
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&sisze=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Always+excited+to+collaborate+and+build+something+impactful+together." alt="Typing SVG" />
+</p>
 
 ---
 
