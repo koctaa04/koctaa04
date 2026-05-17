@@ -115,7 +115,7 @@ const yefta = {
 </> Let's explore more about us. </>
 </p>
 <p align="center">
-	<a href="https://github.com/koctaa04" target="_blank">
+	<a href="https://yeftaa-porto.vercel.app/" target="_blank">
 		<img src="https://img.shields.io/badge/Check%20out%20my%20portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Check out my portfolio" />
 	</a>
 </p>
